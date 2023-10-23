@@ -2,7 +2,7 @@
 
 Este projeto de controle PID de um nivel dedicado para discilpina de controle de sistemas industriais. Nele está disponibilizado o código do projeto para ser utilizado com o simulador PLCSIM do Simatic Manager e Factory IO. Ele utiliza servidor OPC entre as aplicações para realizar a comunicação. 
 
-A linguagem utilizada para programação foi a STL (Standard Template Library), uma versão da Siemens similar a listra de instruções da linguagem assembly. O projeto foi desenvolvido para fins de estudo e por este motivo foram utilizados conceitos de mirroring e POO. 
+A linguagem utilizada para programação foi a STL (Standard Template Library), uma linguaguem Siemens similar a listra de instruções da linguagem assembly. O projeto foi desenvolvido para fins de estudo e por este motivo foram utilizados conceitos de mirroring e POO. 
 
 ## 🚀 Começando
 
@@ -59,7 +59,7 @@ Certifique-se de executar o programa como Admininstrador para uma melhor compati
 
 3 - O Botão Reset possui a lógica de reinicialização forçada caso seja mantido pressioando por 3 segundos;
 
-4 - O controloador permite um pequeno offset em sua lógica;
+4 - O controlador permite um pequeno offset em sua lógica;
 
 5 - O sistema retorna a condição de Stand BY após 3 segundos após alcançado o Set Point; 
 
@@ -68,9 +68,12 @@ Certifique-se de executar o programa como Admininstrador para uma melhor compati
 7 - As vezes a comunicação OPC gera erros neste caso reinicie a simulação no botão reset;
 
 ## 🦾 Technologia
-
+```
 => STL Siemens 
+
 => OPC UA
+
+```
 
 ## 📦 Desenvolvimento
 
@@ -78,7 +81,7 @@ Lauro Cerqueira
 
 LinkdIn: https://www.linkedin.com/in/lauro-cerqueira-70473568/
 
-Instagram : @laurorcerqueira
+Instagram: @laurorcerqueira
 
 ## 📄 Licença
 

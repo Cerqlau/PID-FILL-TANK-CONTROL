@@ -1,4 +1,4 @@
-# Projetos de Comandos Elétricos ⚡️💡💻
+# PID LEVEL TANK CONTROL ⚡️💡💻
 
 Este projeto de controle PID de um nivel dedicado para discilpina de controle de sistemas industriais. Nele está disponibilizado o código do projeto para ser utilizado com o simulador PLCSIM do Simatic Manager e Factory IO. Ele utiliza servidor OPC entre as aplicações para realizar a comunicação. 
 

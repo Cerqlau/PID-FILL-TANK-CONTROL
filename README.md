@@ -19,7 +19,7 @@ Os arquivos do projeto e documentos utilizados se encontram no repositório
 => Simatic Manager 5.6
 => PLCSIM 
 => Factory IO
-=> VMWARE WORKSTATION 15 (Opicional)
+=> VMWARE WORKSTATION 15 (Opcional)
 
 ```
 
